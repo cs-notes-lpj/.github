@@ -6,7 +6,5 @@
 |                                                                      | [internet](https://cs-notes-lpj.github.io/Internet/)                                    |
 |                                                                      | [internet](https://cs-notes-lpj.github.io/Internet/)                                    |
 
----
-
 © 2022 lpj
 

@@ -6,5 +6,5 @@
 |                                                                                                                                                         |<img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/net.png" /> [internet](https://cs-notes-lpj.github.io/Internet/)                                                |
 |                                                                                                                                                         |<img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/py.png" /> [python](https://cs-notes-lpj.github.io/Python/)                                                    |
 
-© 2022 lpj
+© 2022 [lpj](https://liupj.top/academic)
 

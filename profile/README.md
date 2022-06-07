@@ -1,10 +1,10 @@
 ### Completed & Maintained
 
-- <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/manjaro.png" /> [manjaro-tutorial](https://cs-notes-lpj.github.io/manjaro-tutorial/)
+- <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/tools-2.png" /> [shell-tools-collection](https://cs-notes-lpj.github.io/nifty-shell-tools-collection/)
 
 - <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/c.png" /> [dev-c-on-linux](https://cs-notes-lpj.github.io/dev-c-on-linux/)
 
-- <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/tools-2.png" /> [shell-tools-collection](https://cs-notes-lpj.github.io/nifty-shell-tools-collection/)
+- <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/manjaro.png" /> [manjaro-tutorial](https://cs-notes-lpj.github.io/manjaro-tutorial/)
 
 ### Writing...
 
@@ -21,4 +21,3 @@
 ---
 
 © 2022 [lpj](https://liupj.top/academic)
-

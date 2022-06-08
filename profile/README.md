@@ -1,3 +1,7 @@
+### Fork From Community
+
+- [bash-guide](https://cs-notes-lpj.github.io/bash-guide/) | [origin](https://github.com/Idnan/bash-guide)
+
 ### Completed & Maintained
 
 - <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/tools-2.png" /> [shell-tools-collection](https://cs-notes-lpj.github.io/nifty-shell-tools-collection/)

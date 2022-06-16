@@ -1,7 +1,3 @@
-### Reading & Prastising
-
-- [bash-guide](https://cs-notes-lpj.github.io/bash-guide/) | [origin](https://github.com/Idnan/bash-guide)
-
 ### Thinking & Writing
 
 - <img src="https://raw.githubusercontent.com/cs-notes-lpj/.github/main/images/terminal.png" /> [missing-semester-of-your-cs-education](https://cs-notes-lpj.github.io/mit-missing-semester-tools/)
